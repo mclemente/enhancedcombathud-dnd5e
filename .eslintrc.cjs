@@ -174,9 +174,7 @@ module.exports = {
 	},
 
 	globals: {
-		chroma: false,
-		Grapick: false,
-		PIXI: false,
+		TooltipManager: false
 	},
 
 	overrides: [
