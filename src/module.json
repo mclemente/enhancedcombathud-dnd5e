@@ -18,7 +18,7 @@
   ],
   "scripts": [],
   "esmodules": [
-    "index.js"
+    "enhancedcombathud-pf2e.js"
   ],
   "styles": [
     "styles/module.css"
